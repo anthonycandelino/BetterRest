@@ -12,4 +12,5 @@ After values are entered, a CoreML model is utilized to give the user their opti
   <img alt="Optimal bedtime found with entered values" src="https://github.com/anthonycandelino/BetterRest/assets/32252982/d8e94407-73f7-49f9-82f5-c103cbb71cbe" width="250" />
 </p>
 
-App was created using SwiftUI features such as _@State, CoreML, Steppers, DatePicker, DateComponents_
+App was created as part of __100 Days of SwiftUI Course__ using SwiftUI features such as _@State, CoreML, Steppers, DatePicker, DateComponents_
+
